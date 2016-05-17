@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<time_data>
+    <customer_data>
+        <customer>
+            <time>36000</time>
+        </customer>
+        <customer>
+            <time>36030</time>
+        </customer>
+        <customer>
+            <time>36060</time>
+        </customer>
+        <customer>
+            <time>36090</time>
+        </customer>
+        <customer>
+            <time>36120</time>
+        </customer>
+        <customer>
+            <time>36150</time>
+        </customer>
+        <customer>
+            <time>36180</time>
+        </customer>
+    </customer_data>
+    
+    <sample_data>
+        <sample>
+            <start_time>35989</start_time>
+            <end_time>36889</end_time>
+            <mean>30</mean>
+            <median>27</median>
+            <standard_dev>17</standard_dev>
+        </sample>
+        <sample>
+            <start_time>36890</start_time>
+            <end_time>37790</end_time>
+            <mean>32</mean>
+            <median>35</median>
+            <standard_dev>21</standard_dev>
+        </sample>
+    </sample_data>
+</time_data>
